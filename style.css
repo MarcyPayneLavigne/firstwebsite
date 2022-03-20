@@ -29,6 +29,20 @@ header > div > nav > a {
   color: black;
 }
 
+header > div > nav a:hover {
+  color: #D56B8F;
+}
+
+main > div > article > section {
+  width: 500px;
+  margin: auto;
+}
+
+main > div > article {
+  overflow: visible;
+}
+
+
 /* Line divider formatting */
 hr {
   height: 5px;
